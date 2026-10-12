@@ -1,0 +1,6 @@
+{
+  "name": "Vigour & Bloom — Fitness & Mindful Lifestyle Journal",
+  "description": "An editorial publication dedicated to evidence-backed fitness routines, sustainable daily movement, mindful nutrition, and restorative living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
